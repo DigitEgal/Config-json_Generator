@@ -84,7 +84,9 @@ Config saved to config_new.json
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is provided "as is" without any warranties, express or implied. 
+It is not licensed for any particular use, and the creators disclaim any liability for its use. 
+You are free to use, modify, and distribute the code, but you do so at your own risk.
 
 ## Contributing
 
