@@ -22,8 +22,8 @@ This script generates a `config.json` file for machine learning models, tailored
 Clone the repository and navigate to the directory containing the script:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/DigitEgal/Config-json_Generator
+cd Config-json_Generator
 ```
 
 Ensure you have the necessary Python packages installed:
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 To generate the `config.json` file, run the script and follow the prompts:
 
 ```bash
-python create_config_json.py
+python create_config-json.py
 ```
 
 ### Workflow
